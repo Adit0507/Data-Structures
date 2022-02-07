@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "a": "cpp"
+    },
+    "git.ignoreLimitWarning": true
+}
