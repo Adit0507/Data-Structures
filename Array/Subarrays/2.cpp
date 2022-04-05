@@ -18,7 +18,7 @@ int main()
     }
 
     int currSum = 0;
-    int MaxSum = INT_MIN;  // INT_MIN ka doubt
+    int MaxSum = INT_MIN;  
                                             // Array has to be traversed only once in this method //
                                            // Time Complexity = O(n)  
     for(int i=0; i<n; i++)
